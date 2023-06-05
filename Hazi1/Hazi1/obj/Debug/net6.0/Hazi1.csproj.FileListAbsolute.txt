@@ -1,0 +1,15 @@
+C:\OEP 2k23\Hazi1\Hazi1\bin\Debug\net6.0\Hazi1.exe
+C:\OEP 2k23\Hazi1\Hazi1\bin\Debug\net6.0\Hazi1.deps.json
+C:\OEP 2k23\Hazi1\Hazi1\bin\Debug\net6.0\Hazi1.runtimeconfig.json
+C:\OEP 2k23\Hazi1\Hazi1\bin\Debug\net6.0\Hazi1.dll
+C:\OEP 2k23\Hazi1\Hazi1\bin\Debug\net6.0\Hazi1.pdb
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.csproj.AssemblyReference.cache
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.AssemblyInfoInputs.cache
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.AssemblyInfo.cs
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.csproj.CoreCompileInputs.cache
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.dll
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\refint\Hazi1.dll
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.pdb
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\Hazi1.genruntimeconfig.cache
+C:\OEP 2k23\Hazi1\Hazi1\obj\Debug\net6.0\ref\Hazi1.dll
