@@ -1,0 +1,15 @@
+C:\OEP 2k23\HarmadikBead\HarmadikBead\bin\Debug\net6.0\HarmadikBead.exe
+C:\OEP 2k23\HarmadikBead\HarmadikBead\bin\Debug\net6.0\HarmadikBead.deps.json
+C:\OEP 2k23\HarmadikBead\HarmadikBead\bin\Debug\net6.0\HarmadikBead.runtimeconfig.json
+C:\OEP 2k23\HarmadikBead\HarmadikBead\bin\Debug\net6.0\HarmadikBead.dll
+C:\OEP 2k23\HarmadikBead\HarmadikBead\bin\Debug\net6.0\HarmadikBead.pdb
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.csproj.AssemblyReference.cache
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.GeneratedMSBuildEditorConfig.editorconfig
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.AssemblyInfoInputs.cache
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.AssemblyInfo.cs
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.csproj.CoreCompileInputs.cache
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.dll
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\refint\HarmadikBead.dll
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.pdb
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\HarmadikBead.genruntimeconfig.cache
+C:\OEP 2k23\HarmadikBead\HarmadikBead\obj\Debug\net6.0\ref\HarmadikBead.dll
