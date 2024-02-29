@@ -1,0 +1,14 @@
+C:\OEP2k24\HF3\HF3\bin\Debug\net8.0\HF3.exe
+C:\OEP2k24\HF3\HF3\bin\Debug\net8.0\HF3.deps.json
+C:\OEP2k24\HF3\HF3\bin\Debug\net8.0\HF3.runtimeconfig.json
+C:\OEP2k24\HF3\HF3\bin\Debug\net8.0\HF3.dll
+C:\OEP2k24\HF3\HF3\bin\Debug\net8.0\HF3.pdb
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\HF3.GeneratedMSBuildEditorConfig.editorconfig
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\HF3.AssemblyInfoInputs.cache
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\HF3.AssemblyInfo.cs
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\HF3.csproj.CoreCompileInputs.cache
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\HF3.dll
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\refint\HF3.dll
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\HF3.pdb
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\HF3.genruntimeconfig.cache
+C:\OEP2k24\HF3\HF3\obj\Debug\net8.0\ref\HF3.dll
