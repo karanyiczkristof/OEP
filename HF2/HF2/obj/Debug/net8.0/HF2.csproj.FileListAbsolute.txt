@@ -1,0 +1,14 @@
+C:\OEP2k24\HF2\HF2\bin\Debug\net8.0\HF2.exe
+C:\OEP2k24\HF2\HF2\bin\Debug\net8.0\HF2.deps.json
+C:\OEP2k24\HF2\HF2\bin\Debug\net8.0\HF2.runtimeconfig.json
+C:\OEP2k24\HF2\HF2\bin\Debug\net8.0\HF2.dll
+C:\OEP2k24\HF2\HF2\bin\Debug\net8.0\HF2.pdb
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\HF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\HF2.AssemblyInfoInputs.cache
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\HF2.AssemblyInfo.cs
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\HF2.csproj.CoreCompileInputs.cache
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\HF2.dll
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\refint\HF2.dll
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\HF2.pdb
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\HF2.genruntimeconfig.cache
+C:\OEP2k24\HF2\HF2\obj\Debug\net8.0\ref\HF2.dll
