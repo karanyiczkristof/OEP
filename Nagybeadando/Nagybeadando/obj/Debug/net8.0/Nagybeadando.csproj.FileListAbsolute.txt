@@ -1,0 +1,14 @@
+C:\OEP2k24\Nagybeadando\Nagybeadando\bin\Debug\net8.0\Nagybeadando.exe
+C:\OEP2k24\Nagybeadando\Nagybeadando\bin\Debug\net8.0\Nagybeadando.deps.json
+C:\OEP2k24\Nagybeadando\Nagybeadando\bin\Debug\net8.0\Nagybeadando.runtimeconfig.json
+C:\OEP2k24\Nagybeadando\Nagybeadando\bin\Debug\net8.0\Nagybeadando.dll
+C:\OEP2k24\Nagybeadando\Nagybeadando\bin\Debug\net8.0\Nagybeadando.pdb
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\Nagybeadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\Nagybeadando.AssemblyInfoInputs.cache
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\Nagybeadando.AssemblyInfo.cs
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\Nagybeadando.csproj.CoreCompileInputs.cache
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\Nagybeadando.dll
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\refint\Nagybeadando.dll
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\Nagybeadando.pdb
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\Nagybeadando.genruntimeconfig.cache
+C:\OEP2k24\Nagybeadando\Nagybeadando\obj\Debug\net8.0\ref\Nagybeadando.dll
