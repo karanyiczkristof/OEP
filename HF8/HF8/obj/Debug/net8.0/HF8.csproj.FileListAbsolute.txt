@@ -1,0 +1,14 @@
+C:\OEP2k24\HF8\HF8\bin\Debug\net8.0\HF8.exe
+C:\OEP2k24\HF8\HF8\bin\Debug\net8.0\HF8.deps.json
+C:\OEP2k24\HF8\HF8\bin\Debug\net8.0\HF8.runtimeconfig.json
+C:\OEP2k24\HF8\HF8\bin\Debug\net8.0\HF8.dll
+C:\OEP2k24\HF8\HF8\bin\Debug\net8.0\HF8.pdb
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\HF8.GeneratedMSBuildEditorConfig.editorconfig
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\HF8.AssemblyInfoInputs.cache
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\HF8.AssemblyInfo.cs
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\HF8.csproj.CoreCompileInputs.cache
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\HF8.dll
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\refint\HF8.dll
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\HF8.pdb
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\HF8.genruntimeconfig.cache
+C:\OEP2k24\HF8\HF8\obj\Debug\net8.0\ref\HF8.dll
